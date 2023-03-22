@@ -1,3 +1,4 @@
 # bot-tele
 
-cara menggunakannya.... Lanjut part 2
+
+tinggal ubah bagian token dan api key saja
